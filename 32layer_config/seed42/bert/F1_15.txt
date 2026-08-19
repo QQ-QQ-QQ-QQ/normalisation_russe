@@ -1,0 +1,1 @@
+test: tensor(0.7071, device='cuda:0'), validation: tensor(0.5798, device='cuda:0')
